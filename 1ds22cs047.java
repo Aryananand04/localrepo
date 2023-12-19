@@ -3,7 +3,9 @@
     {
         psvm()
         {
-            add();
+                add();{
+                    int a,b,c;
+                    c=a+b;
                 sub();
                 mul();
                 mod();
